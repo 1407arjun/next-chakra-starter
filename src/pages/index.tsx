@@ -1,6 +1,6 @@
 import { Center, Heading } from '@chakra-ui/react'
 import type { NextPage } from 'next'
-import Head from '../components/Head'
+import Head from '@/components/Head'
 
 const Home: NextPage = () => {
   return (
