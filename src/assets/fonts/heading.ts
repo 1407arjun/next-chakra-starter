@@ -1,3 +1,5 @@
 import { Montserrat } from 'next/font/google'
 
-export default Montserrat({ subsets: ['latin'] })
+const mont = Montserrat({ subsets: ['latin'] })
+
+export default mont

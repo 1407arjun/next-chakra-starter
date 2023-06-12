@@ -1,3 +1,5 @@
 import { Inter } from 'next/font/google'
 
-export default Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'] })
+
+export default inter
